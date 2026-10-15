@@ -1,0 +1,20 @@
+{
+  "name": "englint",
+  "version": "0.1.0",
+  "description": "A linter for your English. Learn English while you prompt. Every reply starts with a correction of your prompt, a more advanced version, and the grammar rule behind each fix.",
+  "author": {
+    "name": "Hafshy Yazid Albisthami",
+    "url": "https://github.com/hafshy"
+  },
+  "license": "MIT",
+  "keywords": [
+    "english",
+    "grammar",
+    "language-learning",
+    "esl",
+    "ielts",
+    "cefr"
+  ],
+  "homepage": "https://github.com/hafshy/englint",
+  "repository": "https://github.com/hafshy/englint"
+}

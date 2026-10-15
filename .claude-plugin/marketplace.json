@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "englint",
+  "description": "A linter for your English, built for Claude Code.",
+  "owner": {
+    "name": "Hafshy Yazid Albisthami",
+    "url": "https://github.com/hafshy"
+  },
+  "plugins": [
+    {
+      "name": "englint",
+      "description": "Corrects the English in every prompt, shows a more advanced version, and reports your progress over time.",
+      "source": "./",
+      "category": "learning"
+    }
+  ]
+}
